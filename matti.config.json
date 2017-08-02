@@ -1,0 +1,23 @@
+{
+  "name": "matti-comics-plugin",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "verification": "test.js",
+  "uses": [
+    "storage",
+    "database",
+    "logging"
+  ],
+  "commands": {
+    "high": [
+      "joke",
+      "commit strip",
+      "commitstrip",
+      "commic"
+    ],
+    "low": [
+      "tell",
+      "show"
+    ]
+  }
+}

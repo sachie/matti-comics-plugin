@@ -1,0 +1,22 @@
+{
+  "name": "matti-comics-plugin",
+  "version": "1.0.0",
+  "description": "A comics plugin for matti the bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachie/matti-comics-plugin.git"
+  },
+  "author": "Sachindra Ariyasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachie/matti-comics-plugin/issues"
+  },
+  "homepage": "https://github.com/sachie/matti-comics-plugin#readme",
+  "dependencies": {
+    "devcomic": "^1.0.1"
+  }
+}
